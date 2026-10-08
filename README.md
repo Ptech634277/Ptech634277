@@ -5,129 +5,178 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" />
-  </a>
+  <b>Turning Business Data into Meaningful Insights & Decision-Ready Reports</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Data Analytics" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Data Analytics" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a **Data Analyst** with **2+ years of experience** in:
+I'm a **Data Analyst** with **2+ years of professional experience** in Data Analysis, MIS Reporting, Dashboard Development, Data Validation, and Business Reporting.
 
-📊 MIS Reporting & Business Reporting  
-📈 Power BI Dashboard Development  
-📗 Advanced Excel & Automation  
-🗄️ SQL & Data Extraction  
-🧹 Data Cleaning & Validation  
-🛒 Retail / POS / Inventory Analytics  
-🤝 Client & Stakeholder Reporting  
+💼 Currently working as a **Data Analyst – MIS Reporting & Dashboards**
 
-I enjoy transforming **raw and messy business data into meaningful insights, automated reports, and decision-ready dashboards.**
+📊 Experienced in preparing **Daily, Weekly & Monthly MIS Reports**
 
-### 🎯 My Impact
+📈 Build **Power BI & Excel dashboards** for business reporting
 
-- ⚡ Improved recurring reporting turnaround by **25%**
-- 📊 Developed and deployed **3+ MIS / Power BI dashboards**
-- 🔍 Performed data cleaning, validation & reconciliation
-- 📈 Built sales, inventory & invoice reporting solutions
-- 🤝 Worked directly with clients and internal stakeholders
-- 🔄 Automated repetitive reporting workflows
+⚡ Improved recurring reporting turnaround by **25% through Excel automation**
+
+🧹 Experienced in **Data Cleaning, Validation & Reconciliation**
+
+🗄️ Work with **SQL, ICMS, POS and operational datasets**
+
+🤝 Comfortable working with **clients, stakeholders and internal teams**
+
+💡 Passionate about converting messy business data into clear, actionable insights.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 📊 Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ⚙️ Excel & Reporting
-
-<p>
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-742774?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pivot%20Tables-Reporting-217346?style=flat-square"/>
-<img src="https://img.shields.io/badge/XLOOKUP%20%7C%20INDEX--MATCH-Excel-217346?style=flat-square"/>
-</p>
-
-### 🗄️ Business Systems
-
-<p>
-<img src="https://img.shields.io/badge/ICMS-Business%20Data-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/POS-Retail%20Analytics-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-Data%20Management-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
-</p>
-
----
-
-# 📊 What I Do
+# 🚀 What I Do
 
 <table>
 <tr>
-<td width="50%">
 
-### 📈 MIS & Reporting
+<td width="50%" valign="top">
 
-✔ Daily MIS Reports  
-✔ Weekly Reports  
-✔ Monthly Reports  
-✔ KPI Reporting  
-✔ Client Reporting  
-✔ Stakeholder Reports  
+## 📊 MIS & Reporting
+
+- Daily MIS Reports
+- Weekly MIS Reports
+- Monthly MIS Reports
+- KPI Reports
+- Client Reports
+- Business Reports
+- Stakeholder Reporting
+- Report Presentation
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📈 Dashboard Development
+
+- Power BI Dashboards
+- Excel Dashboards
+- Sales Dashboards
+- Inventory Dashboards
+- Invoice Dashboards
+- KPI Visualization
+- Business Intelligence
+- Data Visualization
 
 </td>
 
-<td width="50%">
-
-### 📊 Dashboard Development
-
-✔ Power BI Dashboards  
-✔ Excel Dashboards  
-✔ Sales Analytics  
-✔ Inventory Analytics  
-✔ Invoice Analytics  
-✔ Business KPIs  
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🧹 Data Quality
+<td width="50%" valign="top">
 
-✔ Data Cleaning  
-✔ Data Validation  
-✔ Data Reconciliation  
-✔ Error Identification  
-✔ Root Cause Analysis  
-✔ Trend Analysis  
+## 🧹 Data Quality
+
+- Data Cleaning
+- Data Validation
+- Data Reconciliation
+- Error Identification
+- Root Cause Analysis
+- Trend Analysis
+- Data Accuracy Checks
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Automation
+
+- Excel Automation
+- Power Query
+- Advanced Excel Formulas
+- Reusable Templates
+- Reporting Automation
+- Data Transformation
+- Process Improvement
 
 </td>
 
-<td width="50%">
+</tr>
+</table>
 
-### ⚡ Automation
+---
 
-✔ Excel Automation  
-✔ Power Query  
-✔ Reporting Automation  
-✔ Reusable Templates  
-✔ Data Transformation  
-✔ Process Improvement  
+# 🛠️ Tech Stack
+
+### 📊 Data Analytics & BI
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Excel & Data Transformation
+
+<p>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLOOKUP%20%2F%20XLOOKUP-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INDEX%20%2B%20MATCH-217346?style=for-the-badge"/>
+</p>
+
+### 🏢 Business Systems
+
+<p>
+<img src="https://img.shields.io/badge/ICMS-4B5563?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POS%20Systems-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
+
+---
+
+# 📌 Professional Highlights
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡ 25%
+
+Reporting  
+Time Improvement
 
 </td>
+
+<td align="center" width="25%">
+
+### 📊 3+
+
+MIS / Power BI  
+Dashboards
+
+</td>
+
+<td align="center" width="25%">
+
+### 📅 2+
+
+Years  
+Experience
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+Business  
+Reporting
+
+</td>
+
 </tr>
 </table>
 
@@ -135,88 +184,117 @@ I enjoy transforming **raw and messy business data into meaningful insights, aut
 
 # 🚀 Featured Projects
 
-### 🛒 Swiggy Orders Dashboard
+## 🛵 Swiggy Dashboard
 
-📊 Interactive food-delivery analytics dashboard
+**Interactive Swiggy Orders Analytics Dashboard**
 
-**Features:**
+📊 Features:
 
 - KPI Cards
+- Order Analytics
 - Sales Analysis
-- Order Trends
-- Category Analysis
+- Trend Analysis
 - Cross Filtering
-- Excel / CSV Data Upload
+- Data Upload
 - Excel / CSV Export
-- Full-Screen Reporting View
+- Full-Screen Report View
 
-🔗 **Repository:** [Swiggy Dashboard](#)
+**Technology:**
+
+`HTML` `CSS` `JavaScript` `Excel` `CSV`
+
+🔗 **Repository:**  
+[Swiggy Dashboard](#)
 
 ---
 
-### 🏪 Grocery Store Sales Dashboard
+## 🏪 Grocery Store Sales Dashboard
 
-📈 Multi-store retail sales analytics solution
+**Multi-Store Retail Sales Analytics Dashboard**
 
-**Analytics Includes:**
-
-- 💰 Net Sales
-- 📦 Units Sold
-- 📊 Gross Profit
-- 📈 Margin Analysis
-- 🏬 Store Performance
-- 🛍️ Product Performance
-- 📅 Monthly Sales Trends
-
-**Stores Covered:**
+📍 Stores:
 
 `Richmond Hill` • `Parsippany` • `Hicksville`
 
-🔗 **Repository:** [Store Sales Dashboard](#)
+📊 Analytics:
 
----
+- 💰 Net Sales
+- 📦 Units Sold
+- 📈 Gross Profit
+- 📊 Margin Analysis
+- 🏬 Store Performance
+- 🛒 Product Performance
+- 📅 Sales Trends
 
-### 📊 Retail Sales Dashboard
+**Technology:**
 
-Interactive retail analytics dashboard designed to transform raw sales data into business insights.
-
-**Tech:**  
 `HTML` `CSS` `JavaScript` `Excel` `CSV`
 
-🔗 **Repository:** [Retail Sales Dashboard](#)
+🔗 **Repository:**  
+[Store Sales Dashboard](#)
 
 ---
 
-# 📌 My Analytics Workflow
+## 📊 Retail Sales Dashboard
+
+Interactive retail analytics dashboard designed to convert raw sales data into useful business insights.
+
+### Features
+
+📈 Sales Performance  
+🏪 Store Analysis  
+🛒 Product Analysis  
+💰 Revenue Tracking  
+📊 KPI Monitoring  
+📅 Trend Analysis  
+
+**Technology:**
+
+`HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+[Retail Sales Dashboard](#)
+
+---
+
+# 🔄 My Data Analytics Workflow
 
 ```text
-        RAW BUSINESS DATA
-               │
-               ▼
-      ┌─────────────────┐
-      │ Data Collection │
-      └────────┬────────┘
-               │
-               ▼
-      ┌─────────────────┐
-      │ Data Cleaning   │
-      │ & Validation    │
-      └────────┬────────┘
-               │
-               ▼
-      ┌─────────────────┐
-      │ Data Analysis   │
-      │ & Transformation│
-      └────────┬────────┘
-               │
-               ▼
-      ┌─────────────────┐
-      │ Dashboard / MIS │
-      │    Reporting    │
-      └────────┬────────┘
-               │
-               ▼
-      ┌─────────────────┐
-      │ Business        │
-      │ Insights        │
-      └─────────────────┘
+                 ┌────────────────────┐
+                 │   RAW BUSINESS DATA │
+                 └──────────┬─────────┘
+                            │
+                            ▼
+                 ┌────────────────────┐
+                 │   DATA COLLECTION  │
+                 │ Excel • CSV • POS  │
+                 │ ICMS • SQL         │
+                 └──────────┬─────────┘
+                            │
+                            ▼
+                 ┌────────────────────┐
+                 │   DATA CLEANING    │
+                 │ Validation         │
+                 │ Reconciliation     │
+                 └──────────┬─────────┘
+                            │
+                            ▼
+                 ┌────────────────────┐
+                 │  DATA ANALYSIS     │
+                 │ Excel • SQL        │
+                 │ Power Query        │
+                 └──────────┬─────────┘
+                            │
+                            ▼
+                 ┌────────────────────┐
+                 │  VISUALIZATION     │
+                 │ Power BI • Excel   │
+                 │ Dashboards         │
+                 └──────────┬─────────┘
+                            │
+                            ▼
+                 ┌────────────────────┐
+                 │ BUSINESS INSIGHTS  │
+                 │ KPIs • Trends      │
+                 │ Decision Support   │
+                 └────────────────────┘
