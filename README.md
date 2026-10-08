@@ -5,32 +5,33 @@
 </h3>
 
 <p align="center">
-  <b>Turning Business Data into Meaningful Insights & Decision-Ready Reports</b>
+<b>Turning Business Data into Meaningful Insights & Decision-Ready Reports</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Data Analytics" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Data Analytics" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I'm a **Data Analyst** with **2+ years of professional experience** in Data Analysis, MIS Reporting, Dashboard Development, Data Validation, and Business Reporting.
 
-💼 Currently working as a **Data Analyst – MIS Reporting & Dashboards**
+💼 Data Analyst – MIS Reporting & Dashboards
 
-📊 Experienced in preparing **Daily, Weekly & Monthly MIS Reports**
+📊 Daily, Weekly & Monthly MIS Reporting
 
-📈 Build **Power BI & Excel dashboards** for business reporting
+📈 Power BI & Excel Dashboard Development
 
-⚡ Improved recurring reporting turnaround by **25% through Excel automation**
+⚡ Improved recurring reporting turnaround by **25%**
 
-🧹 Experienced in **Data Cleaning, Validation & Reconciliation**
+🧹 Data Cleaning, Validation & Reconciliation
 
-🗄️ Work with **SQL, ICMS, POS and operational datasets**
+🗄️ SQL, ICMS, POS & Operational Data
 
-🤝 Comfortable working with **clients, stakeholders and internal teams**
+🤝 Client & Stakeholder Reporting
 
-💡 Passionate about converting messy business data into clear, actionable insights.
+💡 Passionate about converting messy business data into clear,
+actionable insights.
 
 ---
 
@@ -154,7 +155,7 @@ Time Improvement
 
 ### 📊 3+
 
-MIS / Power BI  
+MIS / BI  
 Dashboards
 
 </td>
@@ -184,117 +185,135 @@ Reporting
 
 # 🚀 Featured Projects
 
-## 🛵 Swiggy Dashboard
+## 🛵 01. Swiggy Orders Dashboard
 
-**Interactive Swiggy Orders Analytics Dashboard**
+📊 **Interactive Swiggy Orders Analytics Dashboard**
 
-📊 Features:
-
-- KPI Cards
-- Order Analytics
-- Sales Analysis
-- Trend Analysis
-- Cross Filtering
-- Data Upload
-- Excel / CSV Export
-- Full-Screen Report View
-
-**Technology:**
-
-`HTML` `CSS` `JavaScript` `Excel` `CSV`
-
-🔗 **Repository:**  
-[Swiggy Dashboard](#)
-
----
-
-## 🏪 Grocery Store Sales Dashboard
-
-**Multi-Store Retail Sales Analytics Dashboard**
-
-📍 Stores:
-
-`Richmond Hill` • `Parsippany` • `Hicksville`
-
-📊 Analytics:
-
-- 💰 Net Sales
-- 📦 Units Sold
-- 📈 Gross Profit
-- 📊 Margin Analysis
-- 🏬 Store Performance
-- 🛒 Product Performance
-- 📅 Sales Trends
-
-**Technology:**
-
-`HTML` `CSS` `JavaScript` `Excel` `CSV`
-
-🔗 **Repository:**  
-[Store Sales Dashboard](#)
-
----
-
-## 📊 Retail Sales Dashboard
-
-Interactive retail analytics dashboard designed to convert raw sales data into useful business insights.
+A web-based reporting dashboard designed for analyzing order performance.
 
 ### Features
 
-📈 Sales Performance  
-🏪 Store Analysis  
-🛒 Product Analysis  
-💰 Revenue Tracking  
-📊 KPI Monitoring  
-📅 Trend Analysis  
+- 📊 Orders Performance Report
+- 🔄 Orders / Order Value / Swiggy Revenue
+- 📅 Year / Quarter / Month Filters
+- 🚚 Delivery Status Analysis
+- 💳 Payment Type Analysis
+- 📤 Excel / CSV Data Upload
+- 🔗 Google Sheets Data Connection
+- 📥 Excel Report Export
+- 📄 CSV Export
+- 🖨️ Print / Save as PDF
+- 🖥️ Full-Screen Report
 
-**Technology:**
+### Tech
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Excel` `CSV` `Google Sheets`
 
-🔗 **Repository:**  
-[Retail Sales Dashboard](#)
+🔗 **[🌐 Live Dashboard](https://ptech634277.github.io/Swiggy-Dashbord/)**
+
+🔗 **[📂 GitHub Repository](https://github.com/ptech634277/Swiggy-Dashbord)**
 
 ---
 
-# 🔄 My Data Analytics Workflow
+## 🏪 02. Grocery Store Dashboard Template
 
-```text
-                 ┌────────────────────┐
-                 │   RAW BUSINESS DATA │
-                 └──────────┬─────────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │   DATA COLLECTION  │
-                 │ Excel • CSV • POS  │
-                 │ ICMS • SQL         │
-                 └──────────┬─────────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │   DATA CLEANING    │
-                 │ Validation         │
-                 │ Reconciliation     │
-                 └──────────┬─────────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │  DATA ANALYSIS     │
-                 │ Excel • SQL        │
-                 │ Power Query        │
-                 └──────────┬─────────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │  VISUALIZATION     │
-                 │ Power BI • Excel   │
-                 │ Dashboards         │
-                 └──────────┬─────────┘
-                            │
-                            ▼
-                 ┌────────────────────┐
-                 │ BUSINESS INSIGHTS  │
-                 │ KPIs • Trends      │
-                 │ Decision Support   │
-                 └────────────────────┘
+📊 **Interactive Multi-Store Grocery Analytics Dashboard**
+
+A reusable reporting template for grocery / retail sales analysis.
+
+### Features
+
+- 🏬 Store Comparison
+- 📊 Sales & Gross Profit
+- 🗂️ Category Analysis
+- 🛒 Top Products
+- 💰 Margin Analysis
+- 📈 Gross Margin by Category
+- 🔍 Product / Barcode Search
+- 📤 Excel / CSV Upload
+- 🔗 Google Sheets Connection
+- 📥 CSV Export
+- 🏷️ Store Name Management
+- 🌙 Theme Toggle
+
+### Data Support
+
+`Excel` `CSV` `Google Sheets`
+
+### Required Data
+
+- Product Name
+- Sales Amount
+
+### Optional Data
+
+- Store
+- Category
+- Barcode
+- Quantity
+- Tax
+- Total Cost
+- Gross Profit
+
+🔗 **[🌐 Live Dashboard](https://ptech634277.github.io/Dashbord-Tamplate/#ov)**
+
+🔗 **[📂 GitHub Repository](https://github.com/ptech634277/Dashbord-Tamplate)**
+
+---
+
+## 📊 03. Grocery Store Dashboard
+
+📈 **Retail Sales & Profitability Dashboard**
+
+A grocery-store analytics dashboard focused on store, category, product and margin performance.
+
+### Analytics
+
+- 🏪 Store Comparison
+- 💰 Sales Performance
+- 📈 Gross Profit
+- 🗂️ Category Performance
+- 🛒 Top 10 Products
+- 💹 Margin Spread
+- 📊 Gross Margin by Category
+- 🔎 Product Search
+- 🏷️ Store & Category Filters
+
+### Data Connection
+
+`Excel` `CSV` `Google Sheets`
+
+🔗 **[🌐 Live Dashboard](https://ptech634277.github.io/Dashbord/#ov)**
+
+🔗 **[📂 GitHub Repository](https://github.com/ptech634277/Dashbord)**
+
+---
+
+## 🏬 04. Multi-Store Sales Dashboard
+
+📊 **Villager Farmers Market – Store Sales Analytics**
+
+Analyzes sales performance across:
+
+`Richmond Hill` • `Parsippany` • `Hicksville`
+
+📅 **September 1–30, 2026**
+
+### Dashboard Includes
+
+- 💰 Sales Performance
+- 📈 Gross Profit
+- 🏪 Store Comparison
+- 🗂️ Category Analysis
+- 🛒 Top 10 Products
+- 💹 Margin Spread
+- 📊 Gross Margin by Category
+- 🔍 Product / Barcode Search
+- 📥 CSV Export
+- 🎯 Interactive Filters
+
+🔗 **[🌐 Live Dashboard](https://ptech634277.github.io/Store-sales-dashbord/Index.html#ov)**
+
+🔗 **[📂 GitHub Repository](https://github.com/ptech634277/Store-sales-dashbord)**
+
+---
